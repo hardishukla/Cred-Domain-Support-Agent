@@ -8,28 +8,6 @@ A production-minded domain support agent for a fictional banking/lending support
 
 Transcripts demonstrating every task (Dataset generation, Indexing, RAG evaluation, Triad Self-Evaluation, LangGraph Memory Execution, and Full Test Suite Execution) are saved in the `evaluation/transcripts/` folder to prove completion.
 
-## Acceptance Checklist
-
-| # | Criterion | Status |
-|---|-----------|--------|
-| 1 | Repository structure | ✅ Phase 1 |
-| 2 | Dataset (>=40 records, all categories/statuses) | ✅ Phase 2 |
-| 3 | Knowledge base (12 documents) | ✅ Phase 3 |
-| 4 | Two chunking strategies + ChromaDB | ✅ Phase 4 |
-| 5 | Retrieval + MOCK_LLM generation | ✅ Phase 5 |
-| 6 | Similarity calibration + chunking evaluation | ✅ Phase 6 |
-| 7 | Loan status tool + escalation score | ✅ Phase 7 |
-| 8 | LangGraph routing (>=4 nodes, conditional edge) | ✅ Phase 8 |
-| 9 | Persisted memory + structured output | ✅ Phase 9 |
-| 10 | PII + injection + groundedness guardrails | ✅ Phase 10 |
-| 11 | FastAPI + JSONL logging | ✅ Phase 11 |
-| 12 | 15-query RAG triad evaluation | ✅ Phase 12 |
-| 13 | MCP server/client | ✅ Phase 13 |
-| 14 | SQLite checkpointing | ✅ Phase 14 |
-| 15 | Retries + timeouts | ✅ Phase 15 |
-| 16 | Full integration testing | ✅ Phase 16 |
-| 17 | README complete + final audit | ✅ Phase 17 |
-
 ## Testing
 
 ```bash
