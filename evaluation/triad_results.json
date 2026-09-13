@@ -1,0 +1,127 @@
+{
+    "query_results": [
+        {
+            "query": "What are the eligibility criteria for a personal loan?",
+            "topic": "loan_eligibility",
+            "context_relevance": 1.0,
+            "groundedness": 1.0,
+            "answer_relevance": 1.0,
+            "answer": "# Loan Eligibility Criteria\n\nPersonal Loans require a minimum age of 21 and an annual income of \u20b93,00,000 with a CIBIL score of 700 or above. Home Loans are available for individuals aged 24 to 65 wit"
+        },
+        {
+            "query": "How is EMI calculated for home loans?",
+            "topic": "emi_rules",
+            "context_relevance": 1.0,
+            "groundedness": 1.0,
+            "answer_relevance": 0.5,
+            "answer": "# EMI Rules\n\nEquated Monthly Installments (EMIs) are calculated using the standard reducing-balance formula to ensure interest is only charged on the outstanding principal. Repayment tenures are flexi"
+        },
+        {
+            "query": "What are the annual fees for credit cards?",
+            "topic": "credit_card_fees",
+            "context_relevance": 1.0,
+            "groundedness": 1.0,
+            "answer_relevance": 1.0,
+            "answer": "# Credit Card Fees\n\nAnnual membership fees for credit cards range from \u20b9500 for entry-level cards to \u20b95,000 for premium lifestyle tiers. Late payment charges are structured as a \u20b9500 flat fee plus a 3"
+        },
+        {
+            "query": "What documents are required for KYC verification?",
+            "topic": "kyc_requirements",
+            "context_relevance": 0.25,
+            "groundedness": 1.0,
+            "answer_relevance": 0.0,
+            "answer": "ccepted address proof, such as an Aadhaar card, valid passport, or recent utility bill. As per regulatory guidelines, re-KYC must be completed every 2 years to ensure customer records remain updated. "
+        },
+        {
+            "query": "How do I dispute a fraudulent transaction?",
+            "topic": "fraud_dispute",
+            "context_relevance": 0.3333333333333333,
+            "groundedness": 1.0,
+            "answer_relevance": 0.3333333333333333,
+            "answer": "# Fraud Dispute Resolution\n\nCustomers must report any unauthorized transactions within a strict 7-day window to limit liability. Upon successful preliminary review, provisional credit is issued to the"
+        },
+        {
+            "query": "What is the process to close my bank account?",
+            "topic": "account_closure",
+            "context_relevance": 0.5,
+            "groundedness": 1.0,
+            "answer_relevance": 0.5,
+            "answer": "# Account Closure\n\nInitiating an account closure requires a formal request with a mandatory 30-day notice period. The account's outstanding balance must be strictly zero before the closure process can"
+        },
+        {
+            "query": "What are the interest rates for business loans?",
+            "topic": "interest_rates",
+            "context_relevance": 1.0,
+            "groundedness": 1.0,
+            "answer_relevance": 0.75,
+            "answer": "# Interest Rates\n\nOur lending portfolio features competitive interest rate slabs designed for various customer needs. Personal loans are offered at fixed rates ranging from 10.5% to 16.5% based on cre"
+        },
+        {
+            "query": "Is there a prepayment penalty on education loans?",
+            "topic": "prepayment_penalty",
+            "context_relevance": 0.8,
+            "groundedness": 1.0,
+            "answer_relevance": 0.8,
+            "answer": "regime carry nil prepayment penalties. Auto loans attract a 2% penalty if foreclosed within the first year, whereas Education loans have no prepayment charges at all, and Business loans carry a 4% fee"
+        },
+        {
+            "query": "What is the minimum balance requirement for savings accounts?",
+            "topic": "minimum_balance",
+            "context_relevance": 0.8,
+            "groundedness": 1.0,
+            "answer_relevance": 0.8,
+            "answer": "# Minimum Balance\n\nAccount holders must maintain a specified Minimum Average Balance (MAB) based on their branch location. Standard Savings accounts require a MAB of \u20b910,000 in metro areas and \u20b95,000 "
+        },
+        {
+            "query": "What factors affect my credit score?",
+            "topic": "credit_score",
+            "context_relevance": 0.75,
+            "groundedness": 1.0,
+            "answer_relevance": 0.5,
+            "answer": "# Credit Score\n\nA robust credit score is essential for accessing premium financial products and securing favorable interest rates. Scores are calculated on a standard 300\u2013900 range, with our instituti"
+        },
+        {
+            "query": "Can I open a joint account with my spouse?",
+            "topic": "joint_accounts",
+            "context_relevance": 0.5,
+            "groundedness": 1.0,
+            "answer_relevance": 0.5,
+            "answer": "# Joint Accounts\n\nJoint accounts provide convenient shared banking access and can support a maximum of 4 authorized account holders. These accounts predominantly operate under an 'any-or-survivor' mod"
+        },
+        {
+            "query": "What types of NRI accounts are available?",
+            "topic": "nri_accounts",
+            "context_relevance": 0.75,
+            "groundedness": 1.0,
+            "answer_relevance": 0.5,
+            "answer": "# NRI Accounts\n\nNon-Resident Indians have access to specialized account tiers tailored for cross-border financial management. The NRE account allows for fully repatriable and tax-free deposits of fore"
+        },
+        {
+            "query": "What is the meaning of life?",
+            "topic": "out_of_scope",
+            "context_relevance": 0.0,
+            "groundedness": 1.0,
+            "answer_relevance": 0.0,
+            "answer": "ts, requiring a valid passport and current visa for eligibility.\n"
+        },
+        {
+            "query": "Tell me about cryptocurrency regulations",
+            "topic": "out_of_scope",
+            "context_relevance": 0.0,
+            "groundedness": 1.0,
+            "answer_relevance": 0.0,
+            "answer": "st be strictly zero before the closure process can commence. Associated debit cards must be surrendered or digitally blocked, after which a final account statement is generated and issued. A formal cl"
+        },
+        {
+            "query": "What are the charges?",
+            "topic": "ambiguous",
+            "context_relevance": 1.0,
+            "groundedness": 1.0,
+            "answer_relevance": 1.0,
+            "answer": " charges at all, and Business loans carry a 4% fee on the outstanding amount.\n"
+        }
+    ],
+    "mean_context_relevance": 0.6455555555555555,
+    "mean_groundedness": 1.0,
+    "mean_answer_relevance": 0.5455555555555556
+}

@@ -1,0 +1,19 @@
+{
+    "in_scope_similarities": {
+        "What are the eligibility criteria for a home loan?": 0.5941365073467361,
+        "How is EMI calculated?": 0.5784570301294414,
+        "What documents are needed for KYC?": 0.5173120151437851,
+        "What is the prepayment penalty for a personal loan?": 0.6323902759326336,
+        "What factors affect my credit score?": 0.5071444264163678,
+        "What are the interest rates for education loans?": 0.5813135111570079,
+        "How do I report fraud on my account?": 0.4593789086544043
+    },
+    "out_of_scope_similarities": {
+        "What is the weather today?": 0.3584017193832485,
+        "Tell me about quantum physics": 0.34933634237211003
+    },
+    "min_in_scope": 0.4593789086544043,
+    "max_out_of_scope": 0.3584017193832485,
+    "selected_threshold": 0.40889031401882636,
+    "reasoning": "Midpoint between max out-of-scope (0.3584) and min in-scope (0.4594)"
+}

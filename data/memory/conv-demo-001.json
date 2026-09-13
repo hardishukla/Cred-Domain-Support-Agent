@@ -1,0 +1,34 @@
+[
+  {
+    "role": "user",
+    "content": "What are the eligibility criteria for a home loan?"
+  },
+  {
+    "role": "user",
+    "content": "What are the eligibility criteria for a home loan?"
+  },
+  {
+    "role": "assistant",
+    "content": "# Loan Eligibility Criteria\n\nPersonal Loans require a minimum age of 21 and an annual income of \u20b93,00,000 with a CIBIL score of 700 or above. Home Loans are available for individuals aged 24 to 65 wit"
+  },
+  {
+    "role": "assistant",
+    "content": "# Loan Eligibility Criteria\n\nPersonal Loans require a minimum age of 21 and an annual income of \u20b93,00,000 with a CIBIL score of 700 or above. Home Loans are available for individuals aged 24 to 65 wit"
+  },
+  {
+    "role": "user",
+    "content": "What about the interest rates for that?"
+  },
+  {
+    "role": "user",
+    "content": "What about the interest rates for that?"
+  },
+  {
+    "role": "assistant",
+    "content": "# Interest Rates\n\nOur lending portfolio features competitive interest rate slabs designed for various customer needs. Personal loans are offered at fixed rates ranging from 10.5% to 16.5% based on cre"
+  },
+  {
+    "role": "assistant",
+    "content": "# Interest Rates\n\nOur lending portfolio features competitive interest rate slabs designed for various customer needs. Personal loans are offered at fixed rates ranging from 10.5% to 16.5% based on cre"
+  }
+]

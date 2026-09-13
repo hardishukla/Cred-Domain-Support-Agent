@@ -1,0 +1,39 @@
+=== Conversation A (Thread: conv-demo-001) ===
+User: What are the eligibility criteria for a home loan?
+Agent: # Loan Eligibility Criteria
+
+Personal Loans require a minimum age of 21 and an annual income of ₹3,00,000 with a CIBIL score of 700 or above. Home Loans are available for individuals aged 24 to 65 wit
+
+User: What about the interest rates for that?
+Agent: # Interest Rates
+
+Our lending portfolio features competitive interest rate slabs designed for various customer needs. Personal loans are offered at fixed rates ranging from 10.5% to 16.5% based on cre
+
+=== Conversation B (Thread: conv-demo-002) ===
+User: Check status of LOAN-0001
+Agent: Loan LOAN-0001 status is Submitted. Category: Auto Loan. Amount: 2357113 INR.
+
+=== Verification ===
+Thread A history length: 8
+  user: What are the eligibility criteria for a home loan?
+  user: What are the eligibility criteria for a home loan?
+  assistant: # Loan Eligibility Criteria
+
+Personal Loans require a minimum age of 21 and an annual income of ₹3,00,000 with a CIBIL score of 700 or above. Home Loans are available for individuals aged 24 to 65 wit
+  assistant: # Loan Eligibility Criteria
+
+Personal Loans require a minimum age of 21 and an annual income of ₹3,00,000 with a CIBIL score of 700 or above. Home Loans are available for individuals aged 24 to 65 wit
+  user: What about the interest rates for that?
+  user: What about the interest rates for that?
+  assistant: # Interest Rates
+
+Our lending portfolio features competitive interest rate slabs designed for various customer needs. Personal loans are offered at fixed rates ranging from 10.5% to 16.5% based on cre
+  assistant: # Interest Rates
+
+Our lending portfolio features competitive interest rate slabs designed for various customer needs. Personal loans are offered at fixed rates ranging from 10.5% to 16.5% based on cre
+
+Thread B history length: 4
+  user: Check status of LOAN-0001
+  user: Check status of LOAN-0001
+  assistant: Loan LOAN-0001 status is Submitted. Category: Auto Loan. Amount: 2357113 INR.
+  assistant: Loan LOAN-0001 status is Submitted. Category: Auto Loan. Amount: 2357113 INR.

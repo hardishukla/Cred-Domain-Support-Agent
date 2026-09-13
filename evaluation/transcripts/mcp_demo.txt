@@ -1,0 +1,25 @@
+Starting MCP Client...
+
+Calling tool check_loan_status for record: LOAN-0001
+Response: {
+  "record_id": "LOAN-0001",
+  "status": "Submitted",
+  "category": "Auto Loan",
+  "loan_amount_inr": 2357113,
+  "days_since_created": 126,
+  "flagged_for_fraud_review": false,
+  "escalation_score": 0.2619,
+  "escalation_flag": false
+}
+
+Calling tool check_loan_status for record: LOAN-0005
+Response: {
+  "record_id": "LOAN-0005",
+  "status": "Rejected",
+  "category": "Auto Loan",
+  "loan_amount_inr": 104515,
+  "days_since_created": 82,
+  "flagged_for_fraud_review": false,
+  "escalation_score": 0.3101,
+  "escalation_flag": false
+}

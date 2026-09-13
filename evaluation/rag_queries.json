@@ -1,0 +1,59 @@
+{
+    "in_scope": [
+        "What are the eligibility criteria for a home loan?",
+        "How is EMI calculated?",
+        "What documents are needed for KYC?",
+        "What is the prepayment penalty for a personal loan?",
+        "What factors affect my credit score?",
+        "What are the interest rates for education loans?",
+        "How do I report fraud on my account?"
+    ],
+    "out_of_scope": [
+        "What is the weather today?",
+        "Tell me about quantum physics"
+    ],
+    "eval_queries": [
+        {
+            "query": "What are the eligibility criteria for a home loan?",
+            "relevant_docs": [
+                "loan_eligibility"
+            ]
+        },
+        {
+            "query": "How is EMI calculated?",
+            "relevant_docs": [
+                "emi_rules"
+            ]
+        },
+        {
+            "query": "What documents are needed for KYC?",
+            "relevant_docs": [
+                "kyc_requirements"
+            ]
+        },
+        {
+            "query": "What is the prepayment penalty for a personal loan?",
+            "relevant_docs": [
+                "prepayment_penalty"
+            ]
+        },
+        {
+            "query": "What factors affect my credit score?",
+            "relevant_docs": [
+                "credit_score"
+            ]
+        },
+        {
+            "query": "What are the interest rates for education loans?",
+            "relevant_docs": [
+                "interest_rates"
+            ]
+        },
+        {
+            "query": "How do I report fraud on my account?",
+            "relevant_docs": [
+                "fraud_dispute"
+            ]
+        }
+    ]
+}

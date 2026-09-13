@@ -1,0 +1,42 @@
+[
+  {
+    "role": "user",
+    "content": "Status of LOAN-0010"
+  },
+  {
+    "role": "assistant",
+    "content": "Loan LOAN-0010 status is Approved. Category: Personal Loan. Amount: 2477562 INR."
+  },
+  {
+    "role": "user",
+    "content": "Status of LOAN-0010"
+  },
+  {
+    "role": "assistant",
+    "content": "Loan LOAN-0010 status is Approved. Category: Personal Loan. Amount: 2477562 INR."
+  },
+  {
+    "role": "user",
+    "content": "Status of LOAN-0010"
+  },
+  {
+    "role": "assistant",
+    "content": "Loan LOAN-0010 status is Approved. Category: Personal Loan. Amount: 2477562 INR."
+  },
+  {
+    "role": "user",
+    "content": "Status of LOAN-0010"
+  },
+  {
+    "role": "assistant",
+    "content": "Loan LOAN-0010 status is Approved. Category: Personal Loan. Amount: 2477562 INR."
+  },
+  {
+    "role": "user",
+    "content": "Status of LOAN-0010"
+  },
+  {
+    "role": "assistant",
+    "content": "Loan LOAN-0010 status is Approved. Category: Personal Loan. Amount: 2477562 INR."
+  }
+]

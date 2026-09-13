@@ -1,0 +1,42 @@
+[
+  {
+    "role": "user",
+    "content": "Check status of LOAN-0001"
+  },
+  {
+    "role": "assistant",
+    "content": "Loan LOAN-0001 status is Submitted. Category: Auto Loan. Amount: 2357113 INR."
+  },
+  {
+    "role": "user",
+    "content": "Check status of LOAN-0001"
+  },
+  {
+    "role": "assistant",
+    "content": "Loan LOAN-0001 status is Submitted. Category: Auto Loan. Amount: 2357113 INR."
+  },
+  {
+    "role": "user",
+    "content": "Check status of LOAN-0001"
+  },
+  {
+    "role": "assistant",
+    "content": "Loan LOAN-0001 status is Submitted. Category: Auto Loan. Amount: 2357113 INR."
+  },
+  {
+    "role": "user",
+    "content": "Check status of LOAN-0001"
+  },
+  {
+    "role": "assistant",
+    "content": "Loan LOAN-0001 status is Submitted. Category: Auto Loan. Amount: 2357113 INR."
+  },
+  {
+    "role": "user",
+    "content": "Check status of LOAN-0001"
+  },
+  {
+    "role": "assistant",
+    "content": "Loan LOAN-0001 status is Submitted. Category: Auto Loan. Amount: 2357113 INR."
+  }
+]

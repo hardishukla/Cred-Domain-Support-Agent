@@ -1,0 +1,134 @@
+{
+    "fixed_chunks": {
+        "query_results": [
+            {
+                "query": "What are the eligibility criteria for a home loan?",
+                "precision_at_k": 1.0,
+                "recall_at_k": 1.0,
+                "retrieved_docs": [
+                    "loan_eligibility"
+                ]
+            },
+            {
+                "query": "How is EMI calculated?",
+                "precision_at_k": 0.5,
+                "recall_at_k": 1.0,
+                "retrieved_docs": [
+                    "emi_rules",
+                    "nri_accounts"
+                ]
+            },
+            {
+                "query": "What documents are needed for KYC?",
+                "precision_at_k": 0.5,
+                "recall_at_k": 1.0,
+                "retrieved_docs": [
+                    "kyc_requirements",
+                    "joint_accounts"
+                ]
+            },
+            {
+                "query": "What is the prepayment penalty for a personal loan?",
+                "precision_at_k": 1.0,
+                "recall_at_k": 1.0,
+                "retrieved_docs": [
+                    "prepayment_penalty"
+                ]
+            },
+            {
+                "query": "What factors affect my credit score?",
+                "precision_at_k": 1.0,
+                "recall_at_k": 1.0,
+                "retrieved_docs": [
+                    "credit_score"
+                ]
+            },
+            {
+                "query": "What are the interest rates for education loans?",
+                "precision_at_k": 0.5,
+                "recall_at_k": 1.0,
+                "retrieved_docs": [
+                    "interest_rates",
+                    "prepayment_penalty"
+                ]
+            },
+            {
+                "query": "How do I report fraud on my account?",
+                "precision_at_k": 0.5,
+                "recall_at_k": 1.0,
+                "retrieved_docs": [
+                    "minimum_balance",
+                    "fraud_dispute"
+                ]
+            }
+        ],
+        "mean_precision": 0.7142857142857143,
+        "mean_recall": 1.0
+    },
+    "sentence_chunks": {
+        "query_results": [
+            {
+                "query": "What are the eligibility criteria for a home loan?",
+                "precision_at_k": 1.0,
+                "recall_at_k": 1.0,
+                "retrieved_docs": [
+                    "loan_eligibility"
+                ]
+            },
+            {
+                "query": "How is EMI calculated?",
+                "precision_at_k": 0.5,
+                "recall_at_k": 1.0,
+                "retrieved_docs": [
+                    "emi_rules",
+                    "nri_accounts"
+                ]
+            },
+            {
+                "query": "What documents are needed for KYC?",
+                "precision_at_k": 0.5,
+                "recall_at_k": 1.0,
+                "retrieved_docs": [
+                    "kyc_requirements",
+                    "joint_accounts"
+                ]
+            },
+            {
+                "query": "What is the prepayment penalty for a personal loan?",
+                "precision_at_k": 1.0,
+                "recall_at_k": 1.0,
+                "retrieved_docs": [
+                    "prepayment_penalty"
+                ]
+            },
+            {
+                "query": "What factors affect my credit score?",
+                "precision_at_k": 1.0,
+                "recall_at_k": 1.0,
+                "retrieved_docs": [
+                    "credit_score"
+                ]
+            },
+            {
+                "query": "What are the interest rates for education loans?",
+                "precision_at_k": 0.5,
+                "recall_at_k": 1.0,
+                "retrieved_docs": [
+                    "interest_rates",
+                    "prepayment_penalty"
+                ]
+            },
+            {
+                "query": "How do I report fraud on my account?",
+                "precision_at_k": 0.5,
+                "recall_at_k": 1.0,
+                "retrieved_docs": [
+                    "account_closure",
+                    "fraud_dispute"
+                ]
+            }
+        ],
+        "mean_precision": 0.7142857142857143,
+        "mean_recall": 1.0
+    }
+}
